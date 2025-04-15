@@ -1,7 +1,6 @@
 # ☕ The Coffee Story: Global Market Expansion Strategy  
 *A Data Visualization Project using Tableau*
 
-![Banner](https://your-image-url-if-any)
 
 ## 🔍 Objective
 
