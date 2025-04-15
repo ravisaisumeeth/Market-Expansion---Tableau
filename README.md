@@ -52,20 +52,9 @@ The Tableau dashboards are built for **C-suite decision-makers** to explore tren
 
 ## ☕ The Backstory
 
-> The first lines of SQL were written with one hand on the keyboard and the other gripping a strong brew.  
 > As the dashboard came to life, so did our curiosity about consumer behavior — **brewed, filtered, and visualized.**
 
 This dashboard isn’t just about coffee — it’s about **data storytelling for market strategy**. Built by our team over weeks of analysis, data wrangling, and visualization, this is our contribution to data-driven decision-making in global retail strategy.
-
----
-
-## 👥 Team
-
-- Sai Sumeeth Ravi  
-- Haerin Kim  
-- Da Som Chung  
-- Venkatamanas Raghupatruni  
-- Sai Anuraag Madisetty  
 
 ---
 
